@@ -10,6 +10,14 @@ kubesphere/notification-manager-operator:v2.3.0
 kubesphere/kubectl:v1.22.0
 kubesphere/notification-manager:v2.3.0
 kubesphere/notification-tenant-sidecar:v3.2.0
+prom/alertmanager:v0.23.0
+kubesphere/prometheus-config-reloader:v0.55.1
+prom/prometheus:v2.39.1
+csiplugin/snapshot-controller:v4.0.0
+kubesphereio/coredns:1.9.3
+prom/node-exporter:v1.3.1
+kubesphereio/k8s-dns-node-cache:1.22.20
+csiplugin/snapshot-controller:v4.0.0
 
 # 支持指定架构
 --platform=linux/amd64 nginx
