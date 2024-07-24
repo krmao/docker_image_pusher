@@ -19,6 +19,7 @@ csiplugin/snapshot-controller:v4.0.0
 calico/kube-controllers:v3.27.3
 anjia0532/google-containers.ingress-nginx.controller:v1.11.1
 anjia0532/google-containers.ingress-nginx.kube-webhook-certgen:v1.4.1
+busybox
 
 # 支持指定架构
 --platform=linux/amd64 nginx
