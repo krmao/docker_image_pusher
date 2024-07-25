@@ -21,6 +21,7 @@ anjia0532/google-containers.ingress-nginx.controller:v1.11.1
 anjia0532/google-containers.ingress-nginx.kube-webhook-certgen:v1.4.1
 busybox
 kubesphere/nginx-ingress-controller:v1.3.1
+minio/minio:RELEASE.2019-08-07T01-59-21Z
 
 # 支持指定架构
 --platform=linux/amd64 nginx
