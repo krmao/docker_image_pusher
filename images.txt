@@ -48,6 +48,7 @@ goharbor/harbor-registryctl:v2.5.3
 goharbor/trivy-adapter-photon:v2.5.3
 goharbor/harbor-db:v2.5.3
 goharbor/redis-photon:v2.5.3
+goharbor/nginx-photon:v2.5.3
 
 # 支持指定架构
 --platform=linux/amd64 nginx
