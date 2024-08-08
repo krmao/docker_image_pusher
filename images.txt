@@ -1,6 +1,7 @@
-bskim45/helm-kubectl-jq:latest
-minio/minio:latest
-minio/mc:latest
+kubespheredev/builder-base:v3.1.0-podman
+#bskim45/helm-kubectl-jq:latest
+#minio/minio:latest
+#minio/mc:latest
 
 #nginx
 #mirrorgooglecontainers/defaultbackend-amd64:1.4
