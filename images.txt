@@ -1,4 +1,5 @@
-kubespheredev/builder-base:v3.1.0-podman
+docker.io/library/ubuntu:20.04
+#kubespheredev/builder-base:v3.1.0-podman
 #bskim45/helm-kubectl-jq:latest
 #minio/minio:latest
 #minio/mc:latest
