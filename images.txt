@@ -1,4 +1,5 @@
-docker.io/library/ubuntu:20.04
+mysql/mysql-server:8.0.32
+#docker.io/library/ubuntu:20.04
 #kubespheredev/builder-base:v3.1.0-podman
 #bskim45/helm-kubectl-jq:latest
 #minio/minio:latest
