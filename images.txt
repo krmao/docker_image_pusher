@@ -1,4 +1,5 @@
-busybox:1.32
+redis
+#busybox:1.32
 #mysql/mysql-server:8.0.32
 #docker.io/library/ubuntu:20.04
 #kubespheredev/builder-base:v3.1.0-podman
