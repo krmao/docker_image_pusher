@@ -1,4 +1,5 @@
-liyongyao/kubesphere:devops-builder-nodejs-podman-v1.0.0
+minio/minio:RELEASE.2020-08-08T04-50-06Z
+#liyongyao/kubesphere:devops-builder-nodejs-podman-v1.0.0
 #redis
 #busybox:1.32
 #mysql/mysql-server:8.0.32
