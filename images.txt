@@ -1,5 +1,5 @@
 mikefarah/yq:2.4.1
-mongo:4.2.1
+mongo:latest
 
 
 #bitnami/memcached:1.6.29-debian-12-r6
